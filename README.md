@@ -1,1 +1,1 @@
-# hackharvard21
+# ELC Hackathon 2021
