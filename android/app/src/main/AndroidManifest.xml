@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.hackharvard21">
    <application
-        android:label="Reminisci"
+        android:label="Memory Box"
         android:icon="@mipmap/launcher_icon">
 
 
